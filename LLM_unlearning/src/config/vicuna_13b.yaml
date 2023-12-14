@@ -1,0 +1,8 @@
+load_8bit: False
+model_name: lmsys/vicuna-13b-v1.3
+llm_name: "vicuna"
+auth_token: "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"
+peft: True
+lora_r: 8
+lora_alpha: 32
+lora_dropout: 0.05

@@ -1,0 +1,15 @@
+## Run the code
+Run the code by cd to the src directory, and run the following command:
+```
+./run_main.sh
+```
+We can add more arguments in the sh file. Remember to change the --root_path in the file.
+
+## Dataset
+The dataset to finetune LLaMa2 is stored in src/data. We can configure the dataset by changing the arguments in --dataset_name and --test_dataset.
+
+## Model
+The finetuned LLaMa2 will be stored in src/save_model.
+
+## Result
+The answers and scores will be available in src/result.
