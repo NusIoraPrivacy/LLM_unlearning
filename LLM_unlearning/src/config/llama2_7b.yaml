@@ -1,4 +1,0 @@
-load_8bit: False
-model_name: meta-llama/Llama-2-7b-chat-hf
-llm_name: "llama2-chat"
-auth_token: "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"

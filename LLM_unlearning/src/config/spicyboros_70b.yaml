@@ -1,4 +1,0 @@
-load_8bit: False
-model_name: jondurbin/spicyboros-70b-2.2
-llm_name: "spicyboros-70b"
-chat: False

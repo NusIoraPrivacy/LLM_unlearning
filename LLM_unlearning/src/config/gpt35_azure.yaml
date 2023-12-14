@@ -1,7 +1,0 @@
-api_key: "oaip_sChttMmSZMaXVLxHyEUWzDtLhkgMUFxS"
-api_type: "azure"
-api_base: "https://gcrgpt4aoai9c.azurewebsites.net"
-api_version: "2023-05-15"
-engine: "gpt-35-turbo"
-chat: True
-llm_name: "gpt35_wosys"
